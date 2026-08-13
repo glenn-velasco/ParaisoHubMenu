@@ -1,6 +1,6 @@
 {
-    "updateurl":  "https://raw.githubusercontent.com/glenn-velasco/ParaisoHubMenu/main/ParaisoMenu.luac",
-    "commit":  "a32197dba0bf3d4d32c6374088b33d46a8dce876",
-    "latest":  "1.0.0",
-    "hard_link":  "https://github.com/glenn-velasco/ParaisoHubMenu/releases"
+  "latest": "1.0.0",
+  "commit": "9d2a8696701c9f9db7cb0b02cfa464e1a277d90f",
+  "updateurl": "https://raw.githubusercontent.com/glenn-velasco/ParaisoHubMenu/main/ParaisoMenu.luac",
+  "hard_link": "https://github.com/glenn-velasco/ParaisoHubMenu/releases"
 }
