@@ -1,5 +1,6 @@
 *
 !.gitignore
+!.gitattributes
 !ParaisoMenu.luac
 !version.json
 !version.txt

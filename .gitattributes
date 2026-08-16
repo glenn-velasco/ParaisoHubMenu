@@ -1,0 +1,14 @@
+# Normalize all text files to LF on checkout and commit
+# This prevents size mismatches between local and remote files in the updater
+* text=auto eol=lf
+
+# Explicitly treat Lua files as text with LF
+*.lua text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+
+# Treat compiled/binary files as binary — never convert
+*.luac binary
+*.dll binary
+*.asi binary
