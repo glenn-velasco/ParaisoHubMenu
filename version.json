@@ -11,15 +11,15 @@
                  },
                  {
                      "path":  "lib/effil.lua",
-                     "size":  1654
+                     "size":  1599
                  },
                  {
                      "path":  "lib/effil_http.lua",
-                     "size":  11328
+                     "size":  11090
                  },
                  {
                      "path":  "lib/encoding.lua",
-                     "size":  2636
+                     "size":  2528
                  },
                  {
                      "path":  "lib/fAwesome6.lua",
@@ -27,7 +27,7 @@
                  },
                  {
                      "path":  "lib/fAwesome6_solid.lua",
-                     "size":  342546
+                     "size":  342582
                  },
                  {
                      "path":  "lib/iconv.dll",
@@ -59,7 +59,7 @@
                  },
                  {
                      "path":  "lib/requests.lua",
-                     "size":  9016
+                     "size":  8717
                  },
                  {
                      "path":  "lib/sha2.lua",
@@ -75,7 +75,7 @@
                  },
                  {
                      "path":  "lib/ssl.lua",
-                     "size":  4842
+                     "size":  4663
                  },
                  {
                      "path":  "lib/cjson/cjson.dll",
@@ -91,23 +91,23 @@
                  },
                  {
                      "path":  "lib/effil-http/.gitignore",
-                     "size":  105
+                     "size":  93
                  },
                  {
                      "path":  "lib/effil-http/effil_http.lua",
-                     "size":  11328
+                     "size":  11090
                  },
                  {
                      "path":  "lib/effil-http/example.lua",
-                     "size":  1963
+                     "size":  1908
                  },
                  {
                      "path":  "lib/effil-http/LICENSE",
-                     "size":  1088
+                     "size":  1067
                  },
                  {
                      "path":  "lib/effil-http/README.md",
-                     "size":  4600
+                     "size":  4486
                  },
                  {
                      "path":  "lib/iconv/COPYING-libiconv",
@@ -123,23 +123,23 @@
                  },
                  {
                      "path":  "lib/lua-eventbus/.gitignore",
-                     "size":  8
+                     "size":  7
                  },
                  {
                      "path":  "lib/lua-eventbus/eventbus.lua",
-                     "size":  2162
+                     "size":  2097
                  },
                  {
                      "path":  "lib/lua-eventbus/LICENSE",
-                     "size":  1093
+                     "size":  1072
                  },
                  {
                      "path":  "lib/lua-eventbus/README.md",
-                     "size":  618
+                     "size":  586
                  },
                  {
                      "path":  "lib/lua-eventbus/rockspec/eventbus-0.0.1-1.rockspec",
-                     "size":  466
+                     "size":  444
                  },
                  {
                      "path":  "lib/md5/core.dll",
@@ -147,7 +147,7 @@
                  },
                  {
                      "path":  "lib/mimgui/cdefs.lua",
-                     "size":  118018
+                     "size":  116058
                  },
                  {
                      "path":  "lib/mimgui/cimguidx9.dll",
@@ -155,51 +155,51 @@
                  },
                  {
                      "path":  "lib/mimgui/dx9.lua",
-                     "size":  6717
+                     "size":  6552
                  },
                  {
                      "path":  "lib/mimgui/imgui.lua",
-                     "size":  103788
+                     "size":  101558
                  },
                  {
                      "path":  "lib/mimgui/init.lua",
-                     "size":  14627
+                     "size":  14182
                  },
                  {
                      "path":  "lib/mimgui/win32.lua",
-                     "size":  2276
+                     "size":  2196
                  },
                  {
                      "path":  "lib/samp/events.lua",
-                     "size":  26855
+                     "size":  26562
                  },
                  {
                      "path":  "lib/samp/raknet.lua",
-                     "size":  12181
+                     "size":  11945
                  },
                  {
                      "path":  "lib/samp/synchronization.lua",
-                     "size":  4296
+                     "size":  4097
                  },
                  {
                      "path":  "lib/samp/events/bitstream_io.lua",
-                     "size":  7155
+                     "size":  6888
                  },
                  {
                      "path":  "lib/samp/events/core.lua",
-                     "size":  3880
+                     "size":  3739
                  },
                  {
                      "path":  "lib/samp/events/extra_types.lua",
-                     "size":  1573
+                     "size":  1528
                  },
                  {
                      "path":  "lib/samp/events/handlers.lua",
-                     "size":  17405
+                     "size":  16879
                  },
                  {
                      "path":  "lib/samp/events/utils.lua",
-                     "size":  1385
+                     "size":  1340
                  },
                  {
                      "path":  "lib/socket/core.dll",
@@ -231,15 +231,15 @@
                  },
                  {
                      "path":  "lib/ssl/https.lua",
-                     "size":  4176
+                     "size":  4033
                  },
                  {
                      "path":  "lib/windows/init.lua",
-                     "size":  184
+                     "size":  178
                  },
                  {
                      "path":  "lib/windows/message.lua",
-                     "size":  26909
+                     "size":  25898
                  },
                  {
                      "path":  "lib/windows/message.luac",
@@ -258,7 +258,7 @@
                      "size":  1750
                  }
              ],
-    "commit":  "ca8fc3aece4843a22b7182f7f176da7c5613a9bd",
+    "commit":  "e8ebfa79628a831efb38a1a510fa50dda769a6e6",
     "latest":  "1.0.0",
     "hard_link":  "https://github.com/glenn-velasco/ParaisoHubMenu/releases"
 }
