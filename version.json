@@ -1,5 +1,5 @@
 {
-    "updateurl":  "https://raw.githubusercontent.com/glenn-velasco/ParaisoHubMenu/feature/miner-automation/ParaisoMenu.luac",
+    "updateurl":  "https://raw.githubusercontent.com/glenn-velasco/ParaisoHubMenu/main/ParaisoMenu.luac",
     "libs":  [
                  {
                      "path":  "lib/base64.dll",
@@ -127,7 +127,7 @@
                  },
                  {
                      "path":  "lib/lua-eventbus/eventbus.lua",
-                     "size":  2159
+                     "size":  2162
                  },
                  {
                      "path":  "lib/lua-eventbus/LICENSE",
@@ -258,7 +258,7 @@
                      "size":  1750
                  }
              ],
-    "commit":  "8e2ef7e3d65bc5ab02c7f897da78cd23ae71139c",
+    "commit":  "b75ac993548bdcb969ee40eb70e247e5b0542089",
     "latest":  "1.0.0",
     "hard_link":  "https://github.com/glenn-velasco/ParaisoHubMenu/releases"
 }

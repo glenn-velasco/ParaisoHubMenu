@@ -53,7 +53,7 @@ function M.new()
         for i = 1, #h do
             local ret = h[i](...)
             if type(ret) ~= 'nil' then
-                print("[EventBus] '" .. event .. "' handler " .. i .. " returned non-nil, stopping propagation")
+                -- print("[EventBus] '" .. event .. "' handler " .. i .. " returned non-nil, stopping propagation")
                 return ret
             end
         end
