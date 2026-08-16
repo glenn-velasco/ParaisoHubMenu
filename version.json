@@ -27,7 +27,7 @@
                  },
                  {
                      "path":  "lib/fAwesome6_solid.lua",
-                     "size":  343952
+                     "size":  342546
                  },
                  {
                      "path":  "lib/iconv.dll",
@@ -258,7 +258,7 @@
                      "size":  1750
                  }
              ],
-    "commit":  "a518a9c30eeee896c2e016bcb7904c3fc0f99a7a",
+    "commit":  "1cb88a891a0364f9770a2ddaea4749dbd98e5e5c",
     "latest":  "1.0.0",
     "hard_link":  "https://github.com/glenn-velasco/ParaisoHubMenu/releases"
 }
