@@ -1,5 +1,5 @@
 {
-    "updateurl":  "https://raw.githubusercontent.com/glenn-velasco/ParaisoHubMenu/feature/dynamic-updater/ParaisoMenu.luac",
+    "updateurl":  "https://raw.githubusercontent.com/glenn-velasco/ParaisoHubMenu/feature/miner-automation/ParaisoMenu.luac",
     "libs":  [
                  {
                      "path":  "lib/base64.dll",
@@ -258,7 +258,7 @@
                      "size":  1750
                  }
              ],
-    "commit":  "1cb88a891a0364f9770a2ddaea4749dbd98e5e5c",
+    "commit":  "bbac50ae91cc1554392915a50606be135829eaff",
     "latest":  "1.0.0",
     "hard_link":  "https://github.com/glenn-velasco/ParaisoHubMenu/releases"
 }
