@@ -1,0 +1,12 @@
+# Lua bytecode
+*.luac
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
